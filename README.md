@@ -1,16 +1,22 @@
-### Hi there 👋
+E aí :bowtie:
 
-<!--
-**NERibeiro/NERibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Me chamo Renan Ribeiro e estou aprendendo programação pelo DevClub, tenho 30 anos,
+sou casado e tenho dois filhos.</p>
+<br>
+<br>
+ <img align="left" alt="Coding" width="400" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png">
 
-Here are some ideas to get you started:
+ <img href="https://www.instagram.com/rribeirodos.santos/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+<div>
+<h1>Conhecimento em:</h1>
+
+<a href="https://www.instagram.com/rribeirodos.santos/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
