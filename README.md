@@ -1,6 +1,6 @@
 E aí     :bowtie:
 
-<p>Me chamo Renan Ribeiro e estou aprendendo programação pelo DevClub, tenho 30 anos,
+<p> Me chamo Renan Ribeiro e estou aprendendo programação pelo DevClub, tenho 30 anos,
 sou casado e tenho dois filhos.</p>
 <br>
 <br>
